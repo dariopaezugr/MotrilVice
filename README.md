@@ -35,9 +35,9 @@ Tipo/Género:
 ### Personaje
 
 
-![](jairrente.jpeg)
+![]()
 
-Nombre: 
+Nombre: Jairrente
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
