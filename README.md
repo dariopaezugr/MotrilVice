@@ -35,7 +35,7 @@ Tipo/Género:
 ### Personaje
 
 
-![](img-nobody.png)
+![](jairrente.jpeg)
 
 Nombre: 
 
@@ -79,7 +79,7 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 202X
+Marzo, 2026
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
