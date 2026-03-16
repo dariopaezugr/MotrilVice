@@ -19,7 +19,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://github.com/dariopaezugr/my_storytelling
 
 
 Tipo/Género:  
