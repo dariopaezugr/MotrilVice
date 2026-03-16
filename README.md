@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### StoryTelling de Jairrente
+# Proyecto Storytelling: 
+### Grupo 5: Simios
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -10,10 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Darío González
-- :man: Jairo Coca
-- :man: Rodrigo Bogadanov
-- :man: Kai Zeller
+- 🐵: Darío González
+- 🐵: Jairo Coca
+- 🐵: Rodrigo Bogadanov
+- 🐵: Kai Zeller
 
 
 
