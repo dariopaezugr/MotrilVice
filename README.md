@@ -28,9 +28,8 @@ Tipo/Género:
 - [ ] Comic
 
 
-
 ## Resumen
-
+Jairo es un chico de 30 años que vive en Motril agobiado con sus padres.  Quiere viajar por el mundo, pero sus padres no quieren pagarle los caprichos, instándole a trabajar. Como toda la vida ha sido un vago, está decidido a ganar dinero rápido cueste lo que cueste, y pronto no dudará en meterse al delicado mundo del narcotráfico donde tendrá una transformación de personaje al arriesgarse a grandes peligros.
 
 ### Personaje
 
