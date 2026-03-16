@@ -23,7 +23,7 @@ URL (link) del proyecto en Github: https://github.com/dariopaezugr/my_storytelli
 
 
 Tipo/Género:  
-- [ ] FictionCiberpunk  
+- [ x] FictionCiberpunk  
 - [x] Reality/tribus urbanas  
 - [ ] Comic
 
