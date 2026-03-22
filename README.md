@@ -82,7 +82,9 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
 
 
 ### Conclusiones/Valoración del equipo
-
+Crear una historia a través de métodos tan poco ortodoxos y creativos ha sido bastante enriquecedor. Al fin y al cabo nos hemos inspirado en clásicos españoles como Torrente y la lluvia de ideas ha sido clave.
+¿Por qué no hacer comedia de alguien que podría ser tu vecino? El personaje principal surgió inspirado en un compañero, pero no por sus cualidades, si no por simple coña, esa ha sido la clave, reírnos del proceso. Hemos añadido elementos de Granada con los que nos sentimos identificados, apostando por una modernización del cine kinki de algún modo. 
+En conclusión, creemos que las bases de la historia son sólidas, pero que hay que darle forma. 
 
 
 
