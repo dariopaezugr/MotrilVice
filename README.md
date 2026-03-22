@@ -2,7 +2,7 @@
 # MOTRIL VICE
 ## Proyecto Storytelling: 
 ### _Grupo 5: Simios_
-¡
+
 Autores:  
 <!---
 Incluir lista de personas del grupo 
