@@ -38,10 +38,6 @@ Jairo es un chico de 30 años que vive en Motril agobiado con sus padres.  Quier
 
 Nombre: Jairo
 
-
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
-
 ### Historia
 Jairo tenía treinta años y seguía viviendo en el mismo piso de siempre, en Motril, en la habitación donde aún colgaban los pósteres de cuando era adolescente. Cada mañana se despertaba tarde, escuchando el ruido de su padre preparando el café en la cocina y a su madre quejarse en voz baja, creyendo que él no oía nada.
 
