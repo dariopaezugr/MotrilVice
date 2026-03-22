@@ -65,7 +65,9 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje:
+
+  ENLACE:  https://app.lumi.education/run/krODHg 
 
 
 - Banner/Teaser:  (enlace) 
