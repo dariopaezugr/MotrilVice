@@ -1,9 +1,8 @@
 
-# Proyecto Storytelling: 
-### Grupo 5: Simios
-Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
-
-
+# MOTRIL VICE
+## Proyecto Storytelling: 
+### _Grupo 5: Simios_
+¡
 Autores:  
 <!---
 Incluir lista de personas del grupo 
