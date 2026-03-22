@@ -36,13 +36,31 @@ Jairo es un chico de 30 años que vive en Motril agobiado con sus padres.  Quier
 
 ![](jairrente.jpeg)
 
-Nombre: Jairrente
+Nombre: Jairo
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
+Jairo tenía treinta años y seguía viviendo en el mismo piso de siempre, en Motril, en la habitación donde aún colgaban los pósteres de cuando era adolescente. Cada mañana se despertaba tarde, escuchando el ruido de su padre preparando el café en la cocina y a su madre quejarse en voz baja, creyendo que él no oía nada.
+
+—Con treinta años ya podría espabilar… —decía ella casi todos los días.
+—Que se busque un trabajo de una vez —respondía su padre, más seco.
+
+Jairo fingía que no le importaba, pero por dentro sentía una mezcla de rabia y frustración. Él no quería trabajar en el invernadero como su padre ni en el supermercado como su madre. Él quería viajar, ver el mundo, salir de Motril, conocer playas lejanas, ciudades enormes, noches sin horarios.
+
+Una noche, después de otra discusión en la cena, explotó.
+
+—¡Yo no nací para quedarme aquí toda la vida! —gritó—. Quiero dinero, quiero viajar, quiero vivir.
+
+Su padre dejó el tenedor sobre el plato.
+
+—Pues gáñatelo. Aquí no vamos a pagarte los caprichos.
+
+Ese fue el momento en que algo cambió en la cabeza de Jairo.
+
+Si quería dinero rápido, tendría que buscarlo por su cuenta.
 
 
 ### TagLine
