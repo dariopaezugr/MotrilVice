@@ -64,10 +64,9 @@ Si quería dinero rápido, tendría que buscarlo por su cuenta.
 
 
 ### TagLine
-
-
+Nadie le enseñó a trabajar, el mundo le obligó a sobrevivir.
 ### Conflicto 
-
+Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo desconocido de crimen organizado y narcotráfico. No tiene ni idea. Sólo juega al Lol. Nunca ha salido de Motril. Pero sus ganas de ver mundo lo empujarán a hacer cosas que nunca imaginaría hacer...
 
 ### Productos
 
