@@ -66,6 +66,8 @@ Un treintañero acostumbrado a ser un nini se tendrá que enfrentar a un mundo d
 ### Productos
 
 - Personaje:
+  
+<img width="1024" height="1536" alt="ChatGPT Image 9 mar 2026, 12_40_08" src="https://github.com/user-attachments/assets/ec9d208f-d065-49f1-babb-70dee2d8ecc9" />
 
   ENLACE:  https://app.lumi.education/run/krODHg 
 
